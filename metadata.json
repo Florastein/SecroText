@@ -1,0 +1,5 @@
+{
+  "name": "Incognito Chat",
+  "description": "A secure, end-to-end incognito chat application that does not allow screenshots and does not keep chat history. All conversations are ephemeral and powered by Gemini.",
+  "requestFramePermissions": []
+}
